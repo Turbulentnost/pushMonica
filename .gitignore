@@ -1,0 +1,36 @@
+.env
+.env.prod
+backend/.env.prod
+data/
+**/firebase-adminsdk*.json
+**/secrets/
+monica-*-firebase-adminsdk-*.json
+
+# Python / Django
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+*.sqlite3
+staticfiles/
+
+# Node / React
+node_modules/
+frontend/monica/build/
+npm-debug.log*
+
+# Android / Gradle
+.gradle/
+**/build/
+mobile/local.properties
+*.jks
+*.keystore
+
+# IDE / OS / temporary files
+.idea/
+.vscode/
+.cursor/
+*.log
+*.tmp
+mobile/app/temp/
+tools/minio/minio.exe

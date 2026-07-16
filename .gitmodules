@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Turbulentnost/MonicaBack.git
+[submodule "frontend/monica"]
+	path = frontend/monica
+	url = https://github.com/Turbulentnost/MonicaFront.git
+[submodule "mobile"]
+	path = mobile
+	url = https://github.com/Turbulentnost/MonicaMobile.git
